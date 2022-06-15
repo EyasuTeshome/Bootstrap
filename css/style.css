@@ -1,0 +1,13 @@
+
+      .section-1 {
+        background-image: url(../img/3.svg);
+        width: 100vw;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+      .container-fluid {
+        background-color: #e5e5e5;
+       
+      }
+     
